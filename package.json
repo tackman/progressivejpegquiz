@@ -1,0 +1,27 @@
+{
+  "name": "progressivejepegquiz",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@silvia-odwyer/photon": "^0.3.11",
+    "fp-ts": "^2.10.5",
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.11",
+    "@wasm-tool/wasm-pack-plugin": "^1.4.0",
+    "eslint": "7.29.0",
+    "eslint-config-next": "11.0.1",
+    "prettier": "^2.3.2",
+    "typescript": "4.3.4"
+  }
+}

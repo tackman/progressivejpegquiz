@@ -1,0 +1,11 @@
+.source {
+  position: absolute;
+  bottom: -300vh;
+  z-index: 1;
+}
+
+.main {
+  position: inherit;
+  right: 800px;
+  z-index: 2;
+}
